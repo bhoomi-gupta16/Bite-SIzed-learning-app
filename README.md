@@ -3,6 +3,7 @@ A lightweight, interactive learning platform built with Streamlit that delivers 
 
 
 Features
+![WhatsApp Image 2025-12-04 at 17 16 06_4703f68a](https://github.com/user-attachments/assets/e4d34f43-6f36-4415-9256-410a563a9b2a)
 
 
 🔹 1. Dual-Mode Navigation (Learner / Creator)
@@ -70,6 +71,9 @@ Learning analytics
 Course progress tracking
 
 Content insights
+<img width="1494" height="628" alt="Screenshot 2025-12-04 173111" src="https://github.com/user-attachments/assets/e8713980-288f-4f79-9250-b1f4961c71f7" />
+<img width="1431" height="313" alt="Screenshot 2025-12-04 173017" src="https://github.com/user-attachments/assets/0c2c770c-38a3-4c1a-85d8-f449693ae58d" />
+
 
 🔹 5. Responsive Wide Layout
 
@@ -112,3 +116,5 @@ Helps learners consume small, meaningful chunks of knowledge.
 Designed for fast scrolling and interactive learning.
 
 Suitable for study platforms, course creators, or micro-learning communities.
+<img width="1786" height="821" alt="Screenshot 2025-12-04 173232" src="https://github.com/user-attachments/assets/d33bc64c-a801-467b-ac03-a52c9296111e" />
+
